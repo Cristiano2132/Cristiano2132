@@ -16,32 +16,32 @@ I’m Cristiano, a Data Scientist and Python Developer.
 
 <br>
 
-<a href="https://github.com/Cristiano2132/tailwindcss-v2-dark-mode-tutorial_spatial_data">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=tutorial_spatial_data&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Cristiano2132/tutorial_spatial_data">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=tutorial_spatial_data&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/Cristiano2132/eda">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=eda&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=eda&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/Cristiano2132/design_patterns_python">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=design_patterns_python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=design_patterns_python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/Cristiano2132/TensorFlowKeras">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=TensorFlowKeras&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=TensorFlowKeras&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/Cristiano2132/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=bayesian_optimization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=bayesian_optimization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -51,13 +51,10 @@ I’m Cristiano, a Data Scientist and Python Developer.
 
 <br>
 
-<a href="https://github.com/Cristiano2132">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano2132&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Cristiano2132/Cristiano2132">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano2132&&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=3" />
 </a>
 
-<a href="https://github.com/Cristiano2132">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Cristiano2132&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
 
 <br>
 <br>
@@ -109,4 +106,6 @@ I’m Cristiano, a Data Scientist and Python Developer.
 </details>
 
 <br>
+
+
 
