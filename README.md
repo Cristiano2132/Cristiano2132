@@ -154,4 +154,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://github.com/Cristiano2132/)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cristiano2132)](https://github.com/Cristiano2132/)
