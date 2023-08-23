@@ -1,49 +1,47 @@
-
-
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/cristiano2132/cristiano2132)](https://cristiano2132.github.io/) -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/cristiano-oliveira-231a31140/)
-<!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/Cristiano2132) -->
-[![Braydon's GitHub Banner](static/background.png)](https://cristiano2132.github.io/)
+
+
+
+<p align="center">
+    <img src="static/background.png" alt="Cristiano Oliveira" /></a>
+</p>
 
 
 Hey there 👋
 
-I’m Cristiano, a Data Scientist and Python Developer. 
+I’m Cristiano, a experienced Data Scientist and Python Developer. 
 
 
 
 ## 📌 Pinned Repositories
 
-<br>
-
-<a href="https://github.com/Cristiano2132/tutorial_spatial_data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=tutorial_spatial_data&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Cristiano2132/eda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=eda&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<div>
+  <a href="https://github.com/Cristiano2132/tutorial_spatial_data" style="margin-right: 20px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=tutorial_spatial_data&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+  <a href="https://github.com/Cristiano2132/eda">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=eda&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+</div>
 
 <br>
 
-<a href="https://github.com/Cristiano2132/design_patterns_python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=design_patterns_python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<div>
+  <a href="https://github.com/Cristiano2132/design_patterns_python" style="margin-right: 20px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=design_patterns_python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+  <a href="https://github.com/Cristiano2132/TensorFlowKeras">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=TensorFlowKeras&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+</div>
 
 <br>
 
-<a href="https://github.com/Cristiano2132/TensorFlowKeras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=TensorFlowKeras&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Cristiano2132/officeapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=bayesian_optimization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
+<div>
+  <a href="https://github.com/Cristiano2132/bayesian_optimization">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=bayesian_optimization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+</div>
 <br>
 <br>
 
@@ -106,6 +104,7 @@ I’m Cristiano, a Data Scientist and Python Developer.
 </details>
 
 <br>
+
 
 
 
