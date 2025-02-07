@@ -12,39 +12,6 @@ Hey there 👋
 I’m Cristiano, a experienced Data Scientist and Python Developer. 
 
 
-
-## 📌 Pinned Repositories
-
-<div>
-  <a href="https://github.com/Cristiano2132/tutorial_spatial_data" style="margin-right: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=tutorial_spatial_data&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  <a href="https://github.com/Cristiano2132/eda">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=eda&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-</div>
-
-<br>
-
-<div>
-  <a href="https://github.com/Cristiano2132/design_patterns_python" style="margin-right: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=design_patterns_python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  <a href="https://github.com/Cristiano2132/TensorFlowKeras">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=TensorFlowKeras&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-</div>
-
-<br>
-
-<div>
-  <a href="https://github.com/Cristiano2132/bayesian_optimization">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristiano2132&repo=bayesian_optimization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-</div>
-<br>
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
